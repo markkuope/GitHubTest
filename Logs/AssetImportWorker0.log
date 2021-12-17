@@ -147,3 +147,20 @@ Received Import Request.
 Start importing Assets/Materials/Green.mat using Guid(3e42b9dd45338e54eb364df4f570a8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b5a7049c2cff338400a70d0259c576a') in 0.014755 seconds
   Import took 0.016744 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 684.205651 seconds.
+  path: Assets/Materials/Brown.mat
+  artifactKey: Guid(7fc965736b14a274fbd2d9bc70999ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Brown.mat using Guid(7fc965736b14a274fbd2d9bc70999ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef3572138de73c0c6ac124d9560f9b5') in 0.020535 seconds
+  Import took 0.022745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.537726 seconds.
+  path: Assets/Materials/Brown.mat
+  artifactKey: Guid(7fc965736b14a274fbd2d9bc70999ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Brown.mat using Guid(7fc965736b14a274fbd2d9bc70999ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab03ae0a9bc3e3c4d8024a9f5c3604f') in 0.013201 seconds
+  Import took 0.015251 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
