@@ -83,3 +83,12 @@ Received Import Request.
 Start importing Assets/Materials/Purple.mat using Guid(20d24686bba6a0447a005a87b12d223a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '430c8cbc0c6e857a5dacefceacb77c96') in 0.102603 seconds
   Import took 0.104363 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 85.881915 seconds.
+  path: Assets/Materials/Purple.mat
+  artifactKey: Guid(20d24686bba6a0447a005a87b12d223a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Purple.mat using Guid(20d24686bba6a0447a005a87b12d223a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db80bdafad44e6111da9f4047ed5712') in 0.020753 seconds
+  Import took 0.022575 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
